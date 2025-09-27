@@ -1,0 +1,16 @@
+# Bỏ node_modules
+node_modules/
+
+# Bỏ file môi trường
+.env
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Hệ điều hành
+.DS_Store
+Thumbs.db
+
